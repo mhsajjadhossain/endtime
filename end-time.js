@@ -82,8 +82,8 @@ let start = (sel) => {
                 sInner.innerHTML = s;
                 selector.appendChild(wraper);
     }
-    // let x = setInterval(clock, 1000)
-    clock()
+    let x = setInterval(clock, 1000)
+    // clock()
 }
 let endhoure=(sel)=>{
     let sselector = reqe(sel);
