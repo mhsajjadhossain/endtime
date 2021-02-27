@@ -83,7 +83,6 @@ let start = (sel) => {
                 selector.appendChild(wraper);
     }
     let x = setInterval(clock, 1000)
-    // clock()
 }
 let endhoure=(sel)=>{
     let sselector = reqe(sel);
